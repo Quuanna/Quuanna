@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJhbmJpOG05d3BpYmloemQ5MmZkMDQ4OWVqbnFweGJja2c4eXM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJhbmJpOG05d3BpYmloemQ5MmZkMDQ4OWVqbnFweGJja2c4eXM5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="00"/>
 
 <!--<div id="badges">
   <a href="your-linkedin-URL">
@@ -13,9 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>-->
-
 <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -26,8 +25,6 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: I’m working as a Software Engineer and contributing to Android App for building mobile applications.
 
 - :zap: In my free time, I read tech articles make Continuous improvement of technical capabilities.
-
-- :mailbox:How to reach me: cindyque0000@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -43,6 +40,6 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quuanna&theme=github-dark&hide_border=%E9%8C%AF%E8%AA%A4%E7%9A%84&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Quuanna&theme=highcontrast&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quuanna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
