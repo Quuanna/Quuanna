@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan
-- :telescope: I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management， great experience in Android。
+- :telescope: I'm a Software Developer who is a highly motivated person with strong technical, problem-solving， great experience in Android。
 - :zap: In my free time, I read tech articles make Continuous improvement of technical capabilities.
 
 ### :hammer_and_wrench: Languages and Tools :
