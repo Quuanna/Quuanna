@@ -39,30 +39,30 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ## <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/> Android Development Expertise
 As a seasoned Android engineer with over 5 years of experience, I have honed a comprehensive skill set encompassing various aspects of Android application development. My expertise includes:
 1. **Programming Languages**:
-- Proficient in Kotlin and Java for Android development, leveraging their strengths to build robust and maintainable applications.
+  - Proficient in Kotlin and Java for Android development, leveraging their strengths to build robust and maintainable applications.
 2. **Architectural Patterns**:
-- Extensive experience in implementing MVC and MVVM architectures, ensuring a clean separation of concerns and facilitating scalable and testable codebases.
+  - Extensive experience in implementing MVC and MVVM architectures, ensuring a clean separation of concerns and facilitating scalable and testable codebases.
 3. **Concurrency and Asynchronous Programming**
-- Skilled in using Kotlin Coroutines and Flow to manage asynchronous tasks efficiently, enhancing application responsiveness and performance.
+  - Skilled in using Kotlin Coroutines and Flow to manage asynchronous tasks efficiently, enhancing application responsiveness and performance.
 4. **UI Development:**
-- Expertise in Compose UI for building modern, responsive, and intuitive user interfaces.
-- Adept at implementing custom views and animations to good user experiences.
+  - Expertise in Compose UI for building modern, responsive, and intuitive user interfaces.
+  - Adept at implementing custom views and animations to good user experiences.
 5. **Dependency Injection:**
-- Proficient in using Hilt for dependency injection, promoting modularity and testability in applications.
+  - Proficient in using Hilt for dependency injection, promoting modularity and testability in applications.
 6. **Database Management:**
-- Experienced with Room for local database management, optimizing queries, and ensuring efficient data storage and retrieval.
+  - Experienced with Room for local database management, optimizing queries, and ensuring efficient data storage and retrieval.
 7. **Networking:**
-- Skilled in using OKHttp and Retrofit for network operations, ensuring secure and efficient communication with backend services.
+  - Skilled in using OKHttp and Retrofit for network operations, ensuring secure and efficient communication with backend services.
 8. **Image Loading:**
-- Proficient in using Glide and Picasso for image loading and caching, enhancing application performance and user experience.
+  - Proficient in using Glide and Picasso for image loading and caching, enhancing application performance and user experience.
 9. **Firebase Integration:**
-- Expertise in integrating Firebase services, including Crashlytics for application monitoring, authentication, and real-time database management.
+  - Expertise in integrating Firebase services, including Crashlytics for application monitoring, authentication, and real-time database management.
 10. **Testing:**
-- Strong experience in unit testing and UI testing to ensure code reliability and application stability.
+  - Strong experience in unit testing and UI testing to ensure code reliability and application stability.
 11. **Performance Optimization:**           
-- Passionate about performance optimization, including memory management and efficient database queries to enhance application efficiency and reduce resource consumption.
+  - Passionate about performance optimization, including memory management and efficient database queries to enhance application efficiency and reduce resource consumption.
 12. **Tools:**
-- Proficient in using Trello for project management and Git for version control, ensuring effective collaboration and workflow management.  
+  - Proficient in using Trello for project management and Git for version control, ensuring effective collaboration and workflow management.  
 
 ### :fire: My Stats :
 
